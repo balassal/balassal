@@ -9,7 +9,7 @@ Now, as hobby project, i work on an invoicing app (really simple), with Queasar 
 I have a few project in my repository. I created small Java apps to helping me in my accounting work.  
 I created apps with Angular and Spring Boot to find a job. I found those really good.  
 I would also like to get to know the Dotnet stack. I have heard and read good things about it.  
-Learning svelte is also on my bucket list. I really like its simplicity and the fact that it is compiled.
+Learning Svelte is also on my bucket list. I really like its simplicity and the fact that it is compiled.
 
 
 
