@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @BLacika  
+## 👋 Hi, I’m @balassal  
 Full name: László Sándor Balassa.  
 I live in Budapest with my wife and 3-year-old son.  
 I work for a company where i develop the company's own software, with Angular and Python (w/o framework).  
